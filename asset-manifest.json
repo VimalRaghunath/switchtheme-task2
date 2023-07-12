@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/switchtheme-task2/static/css/main.46063af2.css",
+    "main.js": "/switchtheme-task2/static/js/main.f72a7177.js",
+    "static/js/787.dd5ea308.chunk.js": "/switchtheme-task2/static/js/787.dd5ea308.chunk.js",
+    "index.html": "/switchtheme-task2/index.html",
+    "main.46063af2.css.map": "/switchtheme-task2/static/css/main.46063af2.css.map",
+    "main.f72a7177.js.map": "/switchtheme-task2/static/js/main.f72a7177.js.map",
+    "787.dd5ea308.chunk.js.map": "/switchtheme-task2/static/js/787.dd5ea308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46063af2.css",
+    "static/js/main.f72a7177.js"
+  ]
+}
