@@ -1,0 +1,21 @@
+.app{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.dark{
+  background-color: black;
+}
+.light{
+  background-color: white;
+}
+.btn{
+  padding: 15px;
+  background-color: rgb(202, 6, 6);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 25px;
+}
